@@ -1,0 +1,41 @@
+.divClass {
+    text-align: center;
+    flex: 1 1 auto;           
+}
+#thirdDiv {
+text-align: center;
+flex: 1 1 auto;
+background-color: lightblue;
+color: black;
+padding: 50px;
+width:600px;
+height:500px;
+border-style: dashed double none;
+} 
+#spanId {
+text-align: center;
+flex: 1 1 auto;
+color: black;
+padding: 40px;
+margin: 50px;
+font-size: 18px;
+ 
+} 
+h1{
+color: red;
+text-align: center;
+align-content: center;
+flex: 1 1 auto;
+} 
+img {
+align-content: center;
+flex: 1 1 auto;
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 400px;
+}
+body {
+background-image: url("../imagenes/back.jpg");
+background-color: #cccccc;
+   }
